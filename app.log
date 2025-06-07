@@ -1,0 +1,67 @@
+2025-06-07 16:02:01,563 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000 [in D:\fitness-booking-api\venv\Lib\site-packages\werkzeug\_internal.py:97]
+2025-06-07 16:02:01,563 INFO: [33mPress CTRL+C to quit[0m [in D:\fitness-booking-api\venv\Lib\site-packages\werkzeug\_internal.py:97]
+2025-06-07 16:02:01,566 INFO:  * Restarting with stat [in D:\fitness-booking-api\venv\Lib\site-packages\werkzeug\_internal.py:97]
+2025-06-07 16:02:02,885 WARNING:  * Debugger is active! [in D:\fitness-booking-api\venv\Lib\site-packages\werkzeug\_internal.py:97]
+2025-06-07 16:02:02,890 INFO:  * Debugger PIN: 714-672-087 [in D:\fitness-booking-api\venv\Lib\site-packages\werkzeug\_internal.py:97]
+2025-06-07 16:04:47,660 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000 [in D:\fitness-booking-api\venv\Lib\site-packages\werkzeug\_internal.py:97]
+2025-06-07 16:04:47,660 INFO: [33mPress CTRL+C to quit[0m [in D:\fitness-booking-api\venv\Lib\site-packages\werkzeug\_internal.py:97]
+2025-06-07 16:04:47,662 INFO:  * Restarting with stat [in D:\fitness-booking-api\venv\Lib\site-packages\werkzeug\_internal.py:97]
+2025-06-07 16:04:48,929 WARNING:  * Debugger is active! [in D:\fitness-booking-api\venv\Lib\site-packages\werkzeug\_internal.py:97]
+2025-06-07 16:04:48,933 INFO:  * Debugger PIN: 714-672-087 [in D:\fitness-booking-api\venv\Lib\site-packages\werkzeug\_internal.py:97]
+2025-06-07 16:05:08,771 INFO: 127.0.0.1 - - [07/Jun/2025 16:05:08] "[33mGET / HTTP/1.1[0m" 404 - [in D:\fitness-booking-api\venv\Lib\site-packages\werkzeug\_internal.py:97]
+2025-06-07 16:05:08,954 INFO: 127.0.0.1 - - [07/Jun/2025 16:05:08] "[33mGET /favicon.ico HTTP/1.1[0m" 404 - [in D:\fitness-booking-api\venv\Lib\site-packages\werkzeug\_internal.py:97]
+2025-06-07 16:06:40,532 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000 [in D:\fitness-booking-api\venv\Lib\site-packages\werkzeug\_internal.py:97]
+2025-06-07 16:06:40,532 INFO: [33mPress CTRL+C to quit[0m [in D:\fitness-booking-api\venv\Lib\site-packages\werkzeug\_internal.py:97]
+2025-06-07 16:06:40,534 INFO:  * Restarting with stat [in D:\fitness-booking-api\venv\Lib\site-packages\werkzeug\_internal.py:97]
+2025-06-07 16:06:41,247 WARNING:  * Debugger is active! [in D:\fitness-booking-api\venv\Lib\site-packages\werkzeug\_internal.py:97]
+2025-06-07 16:06:41,250 INFO:  * Debugger PIN: 714-672-087 [in D:\fitness-booking-api\venv\Lib\site-packages\werkzeug\_internal.py:97]
+2025-06-07 16:08:38,921 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000 [in D:\fitness-booking-api\venv\Lib\site-packages\werkzeug\_internal.py:97]
+2025-06-07 16:08:38,921 INFO: [33mPress CTRL+C to quit[0m [in D:\fitness-booking-api\venv\Lib\site-packages\werkzeug\_internal.py:97]
+2025-06-07 16:08:38,922 INFO:  * Restarting with stat [in D:\fitness-booking-api\venv\Lib\site-packages\werkzeug\_internal.py:97]
+2025-06-07 16:08:39,632 WARNING:  * Debugger is active! [in D:\fitness-booking-api\venv\Lib\site-packages\werkzeug\_internal.py:97]
+2025-06-07 16:08:39,635 INFO:  * Debugger PIN: 714-672-087 [in D:\fitness-booking-api\venv\Lib\site-packages\werkzeug\_internal.py:97]
+2025-06-07 16:10:23,303 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000 [in D:\fitness-booking-api\venv\Lib\site-packages\werkzeug\_internal.py:97]
+2025-06-07 16:10:23,303 INFO: [33mPress CTRL+C to quit[0m [in D:\fitness-booking-api\venv\Lib\site-packages\werkzeug\_internal.py:97]
+2025-06-07 16:11:42,508 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5001 [in D:\fitness-booking-api\venv\Lib\site-packages\werkzeug\_internal.py:97]
+2025-06-07 16:11:42,508 INFO: [33mPress CTRL+C to quit[0m [in D:\fitness-booking-api\venv\Lib\site-packages\werkzeug\_internal.py:97]
+2025-06-07 16:12:58,517 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000 [in D:\fitness-booking-api\venv\Lib\site-packages\werkzeug\_internal.py:97]
+2025-06-07 16:12:58,518 INFO: [33mPress CTRL+C to quit[0m [in D:\fitness-booking-api\venv\Lib\site-packages\werkzeug\_internal.py:97]
+2025-06-07 16:13:49,845 INFO: 127.0.0.1 - - [07/Jun/2025 16:13:49] "[33mGET / HTTP/1.1[0m" 404 - [in D:\fitness-booking-api\venv\Lib\site-packages\werkzeug\_internal.py:97]
+2025-06-07 16:15:25,229 INFO: 127.0.0.1 - - [07/Jun/2025 16:15:25] "[33mGET / HTTP/1.1[0m" 404 - [in D:\fitness-booking-api\venv\Lib\site-packages\werkzeug\_internal.py:97]
+2025-06-07 16:16:09,952 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000 [in D:\fitness-booking-api\venv\Lib\site-packages\werkzeug\_internal.py:97]
+2025-06-07 16:16:09,952 INFO: [33mPress CTRL+C to quit[0m [in D:\fitness-booking-api\venv\Lib\site-packages\werkzeug\_internal.py:97]
+2025-06-07 16:16:15,419 INFO: 127.0.0.1 - - [07/Jun/2025 16:16:15] "[33mGET / HTTP/1.1[0m" 404 - [in D:\fitness-booking-api\venv\Lib\site-packages\werkzeug\_internal.py:97]
+2025-06-07 16:16:45,394 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000 [in D:\fitness-booking-api\venv\Lib\site-packages\werkzeug\_internal.py:97]
+2025-06-07 16:16:45,394 INFO: [33mPress CTRL+C to quit[0m [in D:\fitness-booking-api\venv\Lib\site-packages\werkzeug\_internal.py:97]
+2025-06-07 16:16:48,694 INFO: 127.0.0.1 - - [07/Jun/2025 16:16:48] "[33mGET / HTTP/1.1[0m" 404 - [in D:\fitness-booking-api\venv\Lib\site-packages\werkzeug\_internal.py:97]
+2025-06-07 16:16:51,284 INFO: 127.0.0.1 - - [07/Jun/2025 16:16:51] "[33mGET / HTTP/1.1[0m" 404 - [in D:\fitness-booking-api\venv\Lib\site-packages\werkzeug\_internal.py:97]
+2025-06-07 16:18:09,977 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000 [in D:\fitness-booking-api\venv\Lib\site-packages\werkzeug\_internal.py:97]
+2025-06-07 16:18:09,978 INFO: [33mPress CTRL+C to quit[0m [in D:\fitness-booking-api\venv\Lib\site-packages\werkzeug\_internal.py:97]
+2025-06-07 16:22:01,778 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000 [in D:\fitness-booking-api\venv\Lib\site-packages\werkzeug\_internal.py:97]
+2025-06-07 16:22:01,778 INFO: [33mPress CTRL+C to quit[0m [in D:\fitness-booking-api\venv\Lib\site-packages\werkzeug\_internal.py:97]
+2025-06-07 16:25:56,412 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000 [in D:\fitness-booking-api\venv\Lib\site-packages\werkzeug\_internal.py:97]
+2025-06-07 16:25:56,413 INFO: [33mPress CTRL+C to quit[0m [in D:\fitness-booking-api\venv\Lib\site-packages\werkzeug\_internal.py:97]
+2025-06-07 16:34:00,354 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000 [in D:\fitness-booking-api\venv\Lib\site-packages\werkzeug\_internal.py:97]
+2025-06-07 16:34:00,354 INFO: [33mPress CTRL+C to quit[0m [in D:\fitness-booking-api\venv\Lib\site-packages\werkzeug\_internal.py:97]
+2025-06-07 18:16:36,930 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000 [in D:\fitness-booking-api\venv\Lib\site-packages\werkzeug\_internal.py:97]
+2025-06-07 18:16:36,943 INFO: [33mPress CTRL+C to quit[0m [in D:\fitness-booking-api\venv\Lib\site-packages\werkzeug\_internal.py:97]
+2025-06-07 18:16:50,909 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000 [in D:\fitness-booking-api\venv\Lib\site-packages\werkzeug\_internal.py:97]
+2025-06-07 18:16:50,909 INFO: [33mPress CTRL+C to quit[0m [in D:\fitness-booking-api\venv\Lib\site-packages\werkzeug\_internal.py:97]
+2025-06-07 18:17:34,147 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000 [in D:\fitness-booking-api\venv\Lib\site-packages\werkzeug\_internal.py:97]
+2025-06-07 18:17:34,147 INFO: [33mPress CTRL+C to quit[0m [in D:\fitness-booking-api\venv\Lib\site-packages\werkzeug\_internal.py:97]
