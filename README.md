@@ -172,8 +172,8 @@ Tests Fail: Ensure the database is seeded and dates in seed_data.py are in the f
 
 Submission Details
 
-Author: [Your Name]
-GitHub: [Your GitHub URL]
-Loom Video: [Your Loom Video URL]
-Deadline: June 11, 2025
+Author: C Rithvik Bhaskar
+GitHub: https://github.com/RithvikBhaskar
+Loom Video: https://www.loom.com/share/573b4763160441ca9251153003d91960?sid=70b4bf50-85f9-48bf-bf65-0f37a26865f8
+
 
